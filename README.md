@@ -1,5 +1,9 @@
 # Image Bot✨
 
+## Features Bot
+. 
+
+
 ## Setup bot :
 
 1. Create bot [Click here](https://discord.com/developers/applications)
