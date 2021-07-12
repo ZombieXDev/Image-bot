@@ -1,9 +1,9 @@
 # Image Bot 
 
 ## Features Bot
-. More Than 20 ✨
-. Funny Commands 😂
-. High Speed 🚀
+* More Than 20 ✨
+* Funny Commands 😂
+* High Speed 🚀
 
 ## Setup bot :
 
