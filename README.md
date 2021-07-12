@@ -20,6 +20,6 @@ token=<token bot>
 ## Support 💠
 Discord Acount : `!ZombieX#0001`
 [Server Discord](https://discord.gg/crJx77aEsq)
-[https://youtube.com/channel/UC0A5FZItuziL5iWIinQeKcQ]
+[YouTube Channel](https://youtube.com/channel/UC0A5FZItuziL5iWIinQeKcQ)
 
 ### All rights reserved to `ZombieX` 
