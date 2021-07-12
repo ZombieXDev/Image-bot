@@ -1,4 +1,4 @@
-# ZombieX Reports ✨
+# Image Bot✨
 
 ## Setup bot :
 
